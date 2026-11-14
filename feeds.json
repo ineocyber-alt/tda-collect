@@ -1,0 +1,47 @@
+[
+  {
+    "name": "google_trends",
+    "kind": "trend",
+    "url": "https://trends.google.com/trending/rss?geo=KR"
+  },
+  {
+    "name": "yonhap",
+    "kind": "news",
+    "url": "https://www.yna.co.kr/rss/news.xml"
+  },
+  {
+    "name": "khan",
+    "kind": "news",
+    "url": "https://www.khan.co.kr/rss/rssdata/total_news.xml"
+  },
+  {
+    "name": "donga",
+    "kind": "news",
+    "url": "https://rss.donga.com/total.xml"
+  },
+  {
+    "name": "joongang",
+    "kind": "news",
+    "url": "https://rss.joins.com/joins_news_list.xml"
+  },
+  {
+    "name": "hankyung",
+    "kind": "news",
+    "url": "https://www.hankyung.com/feed/all-news"
+  },
+  {
+    "name": "mk",
+    "kind": "news",
+    "url": "https://www.mk.co.kr/rss/30000001/"
+  },
+  {
+    "name": "jtbc",
+    "kind": "news",
+    "url": "https://fs.jtbc.co.kr/RSS/newsflash.xml"
+  },
+  {
+    "name": "ohmynews",
+    "kind": "news",
+    "url": "http://rss.ohmynews.com/rss/ohmynews.xml"
+  }
+]
